@@ -28,3 +28,10 @@ Visit [livingthesociallife.com](https://living-the-social-ife.vercel.app/) to vi
 ## License
 
 This project is for educational and personal use.
+
+## Preview
+
+Below is a screenshot of the homepage, showcasing the minimalist design and layout of "Living the Social Life":
+
+![Homepage Screenshot](img/Screenshot.png)
+
